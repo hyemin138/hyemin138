@@ -1,4 +1,4 @@
-<h2 align="center">👋 정혜민 | Data Analyst</h2>
+<h2 align="center"> 정혜민 | Data Analyst</h2>
 
 
 ## 📌 About Me
