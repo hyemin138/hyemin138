@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Jung%20Hyemin&fontSize=42&fontColor=000000"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=%EC%A0%95%ED%98%9C%EB%AF%BC&fontSize=42&fontColor=000000"/>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 ## Awards
 
 * 영천시 공공데이터 활용 경진대회 우수상
-* 경기대학교 응용통게학과 통계자료분석 경진대회 우수상
+* 경기대학교 응용통계학과 통계자료분석 경진대회 우수상
 
 
 
