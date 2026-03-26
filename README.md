@@ -1,7 +1,55 @@
-## 💼 Team Projects
+# 👋 정혜민 | Data Analyst
 
-### 🔗 [2025_Pick_Dream](https://github.com/Dhuns/2025_Pick_Dream)
-- Firebase 기반의 DB 연동 시스템을 포함한 강의실 대여 앱 개발
-- Android Studio와 Kotlin을 활용하여 앱의 UI 화면과 사용자 기능을 구현
-- 사용자 흐름 및 주요 화면 초안을 기획했고, 이후 디자이너가 이를 바탕으로 최종 UI 디자인 완성
-➡️ [📐 Figma 최종 디자인 보기](https://www.figma.com/design/cvx849ZLcJLFTBEVhf2dFb/PickDream_%EA%B5%90%EB%82%B4-%EA%B0%95%EC%9D%98%EC%8B%A4-%EB%8C%80%EC%97%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C?node-id=0-1&t=YK3did2czUTXMTYR-1))
+---
+
+## 📌 About Me
+
+* 🎓 경기대학교 응용통계학과
+* 💻 컴퓨터공학 복수전공
+* 📊 데이터 분석 / 데이터 사이언스 관심
+
+---
+
+## 🛠 Skills
+
+**Language**
+
+* Python, SQL, R
+
+**Data Analysis**
+
+* Pandas, NumPy, Scikit-learn
+
+**Visualization**
+
+* Matplotlib, Seaborn, Tableau
+
+**Etc**
+
+* Git, GitHub
+
+---
+
+## 🏆 Awards
+
+* 영천시 공공데이터 활용 경진대회 우수상
+* 경기대학교 응용통계학과 통계자료분석 경진대회 우수상
+
+---
+
+## 📜 Certifications
+
+* SQLD
+* ADsP
+* 사회조사분석사 2급
+
+---
+
+## 🚧 Projects (업데이트 예정)
+
+
+---
+
+## 📫 Contact (업데이트 예정)
+
+
