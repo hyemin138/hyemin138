@@ -1,4 +1,7 @@
-<h2 align="center"> 정혜민 | Data Analyst</h2>
+<p align="center">
+  <b style="font-size:28px;">정혜민</b><br>
+  Data Analyst & Developer
+</p>
 
 
 ## 📌 About Me
