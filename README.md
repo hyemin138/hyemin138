@@ -9,7 +9,7 @@
 
 
 
-## 🛠 Skills
+## Skills
 
 * **Language**: Python, SQL, R
 * **Data Analysis**: Pandas, NumPy, Scikit-learn
@@ -18,13 +18,13 @@
 
 
 
-## 🏆 Awards
+## Awards
 
 * 영천시 공공데이터 활용 경진대회 우수상
 * 경기대학교 응용통게학과 통계자료분석 경진대회 우수상
 
 
-## 📜 Certifications
+## Certifications
 
 * SQLD
 * ADsP
@@ -32,10 +32,10 @@
 
 
 
-## 🚧 Projects (업데이트 예정)
+## Projects (업데이트 예정)
 
 현재 프로젝트 정리 및 고도화 진행 중입니다.
 
 
 
-## 📫 Contact (업데이트 예정)
+## Contact (업데이트 예정)
