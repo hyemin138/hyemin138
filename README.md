@@ -1,6 +1,5 @@
 # 👋 정혜민 | Data Analyst
 
----
 
 ## 📌 About Me
 
