@@ -1,5 +1,5 @@
 <p align="center">
-  <b style="font-size:28px;">정혜민</b><br>
+  <b style="font-size:34px;">정혜민</b><br>
   Data Analyst & Developer
 </p>
 
