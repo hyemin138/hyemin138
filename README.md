@@ -1,15 +1,21 @@
-<h2 align="center">정혜민</h2>
-<p align="center">Data Analyst & Developer</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Jung%20Hyemin&fontSize=42&fontColor=000000"/>
+</p>
 
-## 📌 About Me
+<p align="center">
+  Data Analyst & Developer
+</p>
 
-* 🎓 경기대학교 응용통계학과
-* 💻 컴퓨터공학 복수전공
-* 📊 데이터 분석 / 데이터 사이언스 관심
+<br>
+
+## About Me
+
+* 경기대학교 응용통계학과
+* 컴퓨터공학 복수전공
+* 데이터 분석 및 데이터 기반 문제 해결에 관심
 
 
-
-## 🛠 Skills
+## Skills
 
 * **Language**: Python, SQL, R
 * **Data Analysis**: Pandas, NumPy, Scikit-learn
@@ -18,13 +24,14 @@
 
 
 
-## 🏆 Awards
+## Awards
 
 * 영천시 공공데이터 활용 경진대회 우수상
-* 경기대학교 응용통계학과 통계자료분석 경진대회 우수상
+* 경기대학교 응용통게학과 통계자료분석 경진대회 우수상
 
 
-## 📜 Certifications
+
+## Certifications
 
 * SQLD
 * ADsP
@@ -32,10 +39,6 @@
 
 
 
-## 🚧 Projects (업데이트 예정)
+## Projects (Updating)
 
-현재 프로젝트 정리 및 고도화 진행 중입니다.
-
-
-
-## 📫 Contact (업데이트 예정)
+프로젝트 고도화 및 정리 진행 중
