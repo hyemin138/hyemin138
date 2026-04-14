@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Data Analyst & Developer
+  Data Analyst
 </p>
 
 <br>
