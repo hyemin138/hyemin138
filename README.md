@@ -6,34 +6,33 @@
   Data Analyst
 </p>
 
+<p align="center">
+  Applied Statistics × Computer Engineering
+</p>
+
 <br>
 
 ## About Me
 
-* 경기대학교 응용통계학과
-* 컴퓨터공학 복수전공
-
-## Skills
-
-* **Language**: Python, SQL, R
-* **Data Analysis**: Pandas, NumPy, Scikit-learn
-* **Visualization**: Matplotlib, Seaborn, Tableau
-* **Etc**: Git, GitHub
-
-
+- Kyonggi University, Applied Statistics
+- Double Major in Computer Engineering
 
 ## Awards
-* KIIT 대학생 논문경진대회 금상 (AI 탄소배출량 산정 플랫폼)
-* KIIT 대학생 논문경진대회 은상 (LLM 기반 강의실 대여 플랫폼)
-* 제4회 영천시 공공데이터 활용 경진대회 우수상
-* 경기대학교 응용통계학과 통계자료분석 경진대회 우수상
 
-
+- KIIT 대학생 논문경진대회 금상 (AI 기반 탄소배출량 산정 플랫폼)
+- KIIT 대학생 논문경진대회 은상 (LLM 기반 강의실 대여 플랫폼)
+- 제4회 영천시 공공데이터 활용 경진대회 우수상
+- 경기대학교 응용통계학과 통계자료분석 경진대회 우수상
 
 ## Certifications
 
-* SQLD
-* ADsP
-* 사회조사분석사 2급
+- SQLD
+- ADsP
+- 사회조사분석사 2급
 
+## Skills
 
+- Python, SQL, R
+- Pandas, NumPy, Scikit-learn
+- Tableau
+- Git, GitHub
