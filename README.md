@@ -3,11 +3,7 @@
 </p>
 
 <p align="center">
-  Data Analyst
-</p>
-
-<p align="center">
-  Applied Statistics × Computer Engineering
+  Applied Statistics × Computer Engineering · Data Analyst
 </p>
 
 <br>
